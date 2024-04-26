@@ -1,0 +1,11 @@
+{
+  "name": "tricentis",
+  "author": "Darko Stojanovski",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/randomstring": "^1.3.0",
+    "cypress": "^13.8.1",
+    "randomstring": "^1.3.0",
+    "typescript": "^5.4.5"
+  }
+}
